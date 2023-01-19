@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Лиан\sfml_arcanoid\ball.h(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_arcanoid\main.cpp(31,45): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_arcanoid\main.cpp(31,32): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_arcanoid\main.cpp(33,27): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  sfml_arcanoid.vcxproj -> D:\Лиан\sfml_arcanoid\x64\Debug\sfml_arcanoid.exe
